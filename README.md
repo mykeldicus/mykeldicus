@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mykeldicus
 - 👀 I’m interested in all things creative, and complex around coding, sewing and entertainment.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently building a website for a NYC Hair Salon in Bootstrap 
 - 💞️ I’m looking to collaborate on projects related to the environment, LGBTQIA causes and projects related to music, film, and performing arts.
 - 📫 How to reach me is via text at 917-532-7199
 
